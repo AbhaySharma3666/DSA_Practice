@@ -33,10 +33,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0007-reverse-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0645-set-mismatch) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
