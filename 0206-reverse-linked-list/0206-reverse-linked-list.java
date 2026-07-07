@@ -10,13 +10,25 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        // recursion method
         if(head == null) return null;
         if(head == null || head.next == null) return head;
 
         ListNode newHead = reverseList(head.next);
         head.next.next = head;
         head.next = null;
-
         return newHead;
+
+        // simple method
+        // ListNode prev = null;
+        // ListNode curr = head;
+        // ListNode Next = null;
+        // while(curr != null){
+        //     Next = curr.next;
+        //     curr.next = prev;
+        //     prev = curr;
+        //     curr = Next;
+        // } 
+        // return prev;
     }
 }
