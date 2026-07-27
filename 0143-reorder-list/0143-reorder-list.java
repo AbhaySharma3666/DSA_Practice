@@ -10,7 +10,7 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // 2. Reverse 2nd ListNode
+        //  Reverse 2nd ListNode
         ListNode prev = null;
         ListNode curr = slow.next;
         slow.next = null; 
@@ -22,9 +22,9 @@ class Solution {
             curr = nextTemp;
         }
 
-        // 3. Merge both in zig-zag pattern
+        // Merge both in zig-zag pattern
         ListNode first = head;
-        ListNode second = prev; // 'prev' is now the head of the reversed second half
+        ListNode second = prev; 
         
         while (second != null) {
             ListNode tmp1 = first.next;
