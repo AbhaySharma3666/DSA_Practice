@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0707-design-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
