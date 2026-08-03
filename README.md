@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0009-palindrome-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
