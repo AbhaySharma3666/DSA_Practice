@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0682-baseball-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0682-baseball-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
