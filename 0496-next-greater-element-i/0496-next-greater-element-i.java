@@ -1,3 +1,4 @@
+// O(N*M)
 class Solution {
     public int checkNextGreaterElement(int num, int[] nums2) {
         int indexInNums2 = -1;
