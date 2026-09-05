@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/2487-remove-nodes-from-linked-list) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0901-online-stock-span) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,5 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/2487-remove-nodes-from-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
