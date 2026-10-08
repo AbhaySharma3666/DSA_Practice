@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0009-palindrome-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0085-maximal-rectangle) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
