@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0143-reorder-list) |
 | [0155-min-stack with 2 Stack<>()](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0155-min-stack) |
 | [0155-min-stack with 1 Stack<>() and 1 variable](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0503-next-greater-element-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0901-online-stock-span) |
 ## Depth-First Search
@@ -203,5 +205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
