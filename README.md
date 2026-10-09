@@ -206,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0232-implement-queue-using-stacks-pop-efficient](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
