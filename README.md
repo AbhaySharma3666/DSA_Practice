@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0226--invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0287-find-the-duplicate-number](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
