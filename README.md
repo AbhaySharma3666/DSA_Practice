@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1446-consecutive-characters) |
 ## Bracket Sequences
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,4 +239,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
