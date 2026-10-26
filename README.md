@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0085-maximal-rectangle) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0226--invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0287-find-the-duplicate-number](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0704-binary-search) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
