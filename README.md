@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0680-valid-palindrome-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
