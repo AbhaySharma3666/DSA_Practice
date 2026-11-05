@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
