@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -143,15 +145,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -306,4 +311,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
