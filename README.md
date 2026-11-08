@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack with 2 Stack<>()](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0155-min-stack) |
 | [0155-min-stack with 1 Stack<>() and 1 variable](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
