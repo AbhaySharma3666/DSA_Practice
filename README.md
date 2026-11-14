@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
@@ -157,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
