@@ -1,0 +1,25 @@
+class Solution {
+    public int lastStoneWeight(int[] stones) {
+        // create a priorityQueue
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+
+        // Add all stone to the priority queue
+        for (int stone : stones){
+            pq.add(stone);
+        } 
+
+        // While there are more than 1 stone
+        while(pq.size() > 1){
+            // Get the two heaviest stones
+            int y = pq.poll();
+            int x = pq.poll();
+
+            // If the stones are not equal
+            if(x != y){
+                pq.add(y-x);
+            }
+        }
+
+        return pq.isEmpty() ? 0 : pq.poll();
+    }
+}
