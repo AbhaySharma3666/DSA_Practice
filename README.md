@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1046-last-stone-weight) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -362,4 +363,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
