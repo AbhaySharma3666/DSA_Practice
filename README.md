@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0009-palindrome-number) |
+| [0973-k-closest-points-to-origin](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1046-last-stone-weight) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -387,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AbhaySharma3666/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
